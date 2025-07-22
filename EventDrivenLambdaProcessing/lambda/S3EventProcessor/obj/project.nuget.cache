@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "V7oKSmOZUZE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\doa19\\Desktop\\Terraform\\EventDrivenLambdaProcessing\\lambda\\S3EventProcessor\\S3EventProcessor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\doa19\\.nuget\\packages\\amazon.lambda.core\\2.2.0\\amazon.lambda.core.2.2.0.nupkg.sha512",
+    "C:\\Users\\doa19\\.nuget\\packages\\amazon.lambda.s3events\\3.0.0\\amazon.lambda.s3events.3.0.0.nupkg.sha512",
+    "C:\\Users\\doa19\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.4.0\\amazon.lambda.serialization.systemtextjson.2.4.0.nupkg.sha512",
+    "C:\\Users\\doa19\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.6\\microsoft.netcore.app.ref.9.0.6.nupkg.sha512",
+    "C:\\Users\\doa19\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.6\\microsoft.windowsdesktop.app.ref.9.0.6.nupkg.sha512",
+    "C:\\Users\\doa19\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.6\\microsoft.aspnetcore.app.ref.9.0.6.nupkg.sha512",
+    "C:\\Users\\doa19\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.6\\microsoft.netcore.app.host.win-x64.9.0.6.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "message": "S3EventProcessor depends on Amazon.Lambda.S3Events (>= 2.5.0) but Amazon.Lambda.S3Events 2.5.0 was not found. Amazon.Lambda.S3Events 3.0.0 was resolved instead.",
+      "projectPath": "C:\\Users\\doa19\\Desktop\\Terraform\\EventDrivenLambdaProcessing\\lambda\\S3EventProcessor\\S3EventProcessor.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\doa19\\Desktop\\Terraform\\EventDrivenLambdaProcessing\\lambda\\S3EventProcessor\\S3EventProcessor.csproj",
+      "libraryId": "Amazon.Lambda.S3Events",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    }
+  ]
+}
